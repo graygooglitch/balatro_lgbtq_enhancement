@@ -1,0 +1,14 @@
+{
+	"id": "LGBTQEnhancements",
+	"name": "LGBTQ+ Card Enhancements",
+	"display_name": "LGBTQ+ Card Enhancements",
+	"author": ["GrayGooGlitch"],
+	"description": "Customized Enhancement Card Textures",
+	"prefix": "qce",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": ["malverk"]
+}
